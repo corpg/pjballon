@@ -1,6 +1,6 @@
 # pjballon
-GUI platform to test sending and receiving error-protected data over a serial interface.
+Test platform (GUI) to send and receive error-protected data (hamming code) over a serial interface (Java). Used for validating the end-to-end radio transmission chain of a stratospheric ballon (mainly sending GPS coordinates and temperature/humidity data).
 
-Implemented using Hammming code. Complete documentation available. 
+Complete documentation available. 
 
-Done as part of the "Projet Ballon" in 2009
+Done as part of the "Projet Ballon" in 2009.
